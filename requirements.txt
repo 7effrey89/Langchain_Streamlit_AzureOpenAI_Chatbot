@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+langchain
+azure-identity
+langchain_community
+streamlit_extras
