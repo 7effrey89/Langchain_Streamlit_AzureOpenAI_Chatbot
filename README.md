@@ -5,4 +5,5 @@ In this solution you will find two examples of implementing a chat experience us
 
 # Getting Started
 Run the following command in the terminal to start the chat portal
+
 python -m streamlit run main.py
